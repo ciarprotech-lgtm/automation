@@ -1,0 +1,2131 @@
+[
+  {
+    "ticker": "SETFGOLD",
+    "type": "etf",
+    "name": "SBI Gold ETF",
+    "id": "SBIG",
+    "sid": "SBIG"
+  },
+  {
+    "ticker": "GOLDBEES",
+    "type": "etf",
+    "name": "Nippon India ETF Gold BeES",
+    "id": "GBES",
+    "sid": "GBES"
+  },
+  {
+    "ticker": "HDFCGOLD",
+    "type": "etf",
+    "name": "HDFC Gold ETF",
+    "id": "HDGO",
+    "sid": "HDGO"
+  },
+  {
+    "ticker": "TATAGOLD",
+    "type": "etf",
+    "name": "Tata Gold Exchange Traded Fund",
+    "id": "TATAG",
+    "sid": "TATAG"
+  },
+  {
+    "ticker": "GOLDIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Gold ETF",
+    "id": "IPEG",
+    "sid": "IPEG"
+  },
+  {
+    "ticker": "GOLD1",
+    "type": "etf",
+    "name": "Kotak Gold Etf",
+    "id": "KTGF",
+    "sid": "KTGF"
+  },
+  {
+    "ticker": "GOLDCASE",
+    "type": "etf",
+    "name": "Zerodha Gold ETF",
+    "id": "GOLDA",
+    "sid": "GOLDA"
+  },
+  {
+    "ticker": "GOLDETF",
+    "type": "etf",
+    "name": "Mirae Asset Gold ETF",
+    "id": "MAGO",
+    "sid": "MAGO"
+  },
+  {
+    "ticker": "MOGOLD",
+    "type": "etf",
+    "name": "Motilal Oswal Gold ETF",
+    "id": "MOG",
+    "sid": "MOG"
+  },
+  {
+    "ticker": "AXISGOLD",
+    "type": "etf",
+    "name": "Axis Gold ETF",
+    "id": "AXGF",
+    "sid": "AXGF"
+  },
+  {
+    "ticker": "GOLDADD",
+    "type": "etf",
+    "name": "DSP Gold ETF",
+    "id": "DSPG",
+    "sid": "DSPG"
+  },
+  {
+    "ticker": "GOLDBETA",
+    "type": "etf",
+    "name": "UTI Gold Exchange Traded Fund",
+    "id": "UTGF",
+    "sid": "UTGF"
+  },
+  {
+    "ticker": "BSLGOLDETF",
+    "type": "etf",
+    "name": "Aditya Birla Sun Life Gold ETF",
+    "id": "AITY",
+    "sid": "AITY"
+  },
+  {
+    "ticker": "GROWWGOLD",
+    "type": "etf",
+    "name": "Groww Gold ETF",
+    "id": "GROWG",
+    "sid": "GROWG"
+  },
+  {
+    "ticker": "LICMFGOLD",
+    "type": "etf",
+    "name": "LIC MF Gold ETF",
+    "id": "IDBE",
+    "sid": "IDBE"
+  },
+  {
+    "ticker": "GOLDBND",
+    "type": "etf",
+    "name": "Bandhan Gold ETF",
+    "id": "GOLDB",
+    "sid": "GOLDB"
+  },
+  {
+    "ticker": "BBNPPGOLD",
+    "type": "etf",
+    "name": "Baroda BNP Paribas Gold ETF",
+    "id": "BBN",
+    "sid": "BBN"
+  },
+  {
+    "ticker": "AONEGOLD",
+    "type": "etf",
+    "name": "Angel One Gold ETF",
+    "id": "AONEG",
+    "sid": "AONEG"
+  },
+  {
+    "ticker": "COMMOIETF",
+    "type": "etf",
+    "name": "ICICI Pru Nifty Commodities ETF",
+    "id": "ICICO",
+    "sid": "ICICO"
+  },
+  {
+    "ticker": "QGOLDHALF",
+    "type": "etf",
+    "name": "Quantum Gold Fund",
+    "id": "QTGF",
+    "sid": "QTGF"
+  },
+  {
+    "ticker": "GOLD360",
+    "type": "etf",
+    "name": "360 ONE Gold ETF",
+    "id": "GOLG",
+    "sid": "GOLG"
+  },
+  {
+    "ticker": "CHOICEGOLD",
+    "type": "etf",
+    "name": "Choice Gold ETF",
+    "id": "CHOIC",
+    "sid": "CHOIC"
+  },
+  {
+    "ticker": "IVZINGOLD",
+    "type": "etf",
+    "name": "Invesco India Gold Exchange Traded Fund",
+    "id": "INVS",
+    "sid": "INVS"
+  },
+  {
+    "ticker": "EGOLD",
+    "type": "etf",
+    "name": "Edelweiss Gold ETF",
+    "id": "EGO",
+    "sid": "EGO"
+  },
+  {
+    "ticker": "UNIONGOLD",
+    "type": "etf",
+    "name": "Union Gold ETF",
+    "id": "UNIOG",
+    "sid": "UNIOG"
+  },
+  {
+    "ticker": "SILVERBEES",
+    "type": "etf",
+    "name": "Nippon India Silver ETF",
+    "id": "NETFS",
+    "sid": "NETFS"
+  },
+  {
+    "ticker": "TATSILV",
+    "type": "etf",
+    "name": "Tata Silver Exchange Traded Fund",
+    "id": "TATSI",
+    "sid": "TATSI"
+  },
+  {
+    "ticker": "HDFCSILVER",
+    "type": "etf",
+    "name": "HDFC Silver ETF",
+    "id": "HDFCS",
+    "sid": "HDFCS"
+  },
+  {
+    "ticker": "SILVERIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Silver ETF",
+    "id": "ICICS",
+    "sid": "ICICS"
+  },
+  {
+    "ticker": "SILVER",
+    "type": "etf",
+    "name": "Aditya BSL Silver ETF",
+    "id": "SILVR",
+    "sid": "SILVR"
+  },
+  {
+    "ticker": "SBISILVER",
+    "type": "etf",
+    "name": "SBI Silver ETF",
+    "id": "SBISI",
+    "sid": "SBISI"
+  },
+  {
+    "ticker": "SILVERCASE",
+    "type": "etf",
+    "name": "Zerodha Silver ETF",
+    "id": "SILVC",
+    "sid": "SILVC"
+  },
+  {
+    "ticker": "SILVER1",
+    "type": "etf",
+    "name": "Kotak Silver ETF",
+    "id": "KOTAS",
+    "sid": "KOTAS"
+  },
+  {
+    "ticker": "SILVERBETA",
+    "type": "etf",
+    "name": "UTI Silver Exchange Traded Fund",
+    "id": "SILVT",
+    "sid": "SILVT"
+  },
+  {
+    "ticker": "AXISILVER",
+    "type": "etf",
+    "name": "Axis Silver ETF",
+    "id": "AXISI",
+    "sid": "AXISI"
+  },
+  {
+    "ticker": "SILVERADD",
+    "type": "etf",
+    "name": "DSP Silver ETF",
+    "id": "DSPS",
+    "sid": "DSPS"
+  },
+  {
+    "ticker": "ESILVER",
+    "type": "etf",
+    "name": "Edelweiss Silver ETF",
+    "id": "ESI",
+    "sid": "ESI"
+  },
+  {
+    "ticker": "GROWWSLVR",
+    "type": "etf",
+    "name": "Groww Silver ETF",
+    "id": "GROWS",
+    "sid": "GROWS"
+  },
+  {
+    "ticker": "SILVERAG",
+    "type": "etf",
+    "name": "Mirae Asset Silver ETF",
+    "id": "MASI",
+    "sid": "MASI"
+  },
+  {
+    "ticker": "SILVER360",
+    "type": "etf",
+    "name": "360 ONE Silver ETF",
+    "id": "SILVS",
+    "sid": "SILVS"
+  },
+  {
+    "ticker": "MOSILVER",
+    "type": "etf",
+    "name": "Motilal Oswal Silver ETF",
+    "id": "MOSI",
+    "sid": "MOSI"
+  },
+  {
+    "ticker": "SILVERBND",
+    "type": "etf",
+    "name": "Bandhan Silver ETF",
+    "id": "SILVB",
+    "sid": "SILVB"
+  },
+  {
+    "ticker": "GSEC10IETF",
+    "type": "etf",
+    "name": "ICICI Pru Nifty 10 yr Benchmark G-sec ETF",
+    "id": "ICIGI",
+    "sid": "ICIGI"
+  },
+  {
+    "ticker": "GILT5BETA",
+    "type": "etf",
+    "name": "UTI Nifty 5 yr Benchmark G-Sec ETF",
+    "id": "NIFGE",
+    "sid": "NIFGE"
+  },
+  {
+    "ticker": "LTGILTBEES",
+    "type": "etf",
+    "name": "Nippon IN ETF Nifty 8-13 yr G-Sec Long Term Gilt",
+    "id": "NTFL",
+    "sid": "NTFL"
+  },
+  {
+    "ticker": "GILT5YBEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty 5 yr Benchmark G-Sec",
+    "id": "NETFG",
+    "sid": "NETFG"
+  },
+  {
+    "ticker": "SETF10GILT",
+    "type": "etf",
+    "name": "SBI Nifty 10 yr Benchmark G-Sec ETF",
+    "id": "SBGT",
+    "sid": "SBGT"
+  },
+  {
+    "ticker": "LTGILTCASE",
+    "type": "etf",
+    "name": "Zerodha Nifty 8-13 Yr G-Sec ETF",
+    "id": "LTG",
+    "sid": "LTG"
+  },
+  {
+    "ticker": "LICNETFGSC",
+    "type": "etf",
+    "name": "LIC MF Nifty 8-13 yr G-Sec ETF",
+    "id": "LICN",
+    "sid": "LICN"
+  },
+  {
+    "ticker": "MOGSEC",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty 5 year BM G-Sec ETF",
+    "id": "G",
+    "sid": "G"
+  },
+  {
+    "ticker": "GSEC5IETF",
+    "type": "etf",
+    "name": "ICICI Pru Nifty 5 yr Benchmark G-SEC ETF",
+    "id": "ICICG",
+    "sid": "ICICG"
+  },
+  {
+    "ticker": "GILT10BETA",
+    "type": "etf",
+    "name": "UTI Nifty 10 yr Benchmark G-Sec ETF",
+    "id": "NIFG",
+    "sid": "NIFG"
+  },
+  {
+    "ticker": "ABGSEC",
+    "type": "etf",
+    "name": "Aditya Birla Sun Life CRISIL Broad Based Gilt ETF",
+    "id": "ABGSE",
+    "sid": "ABGSE"
+  },
+  {
+    "ticker": "GSEC10YEAR",
+    "type": "etf",
+    "name": "Mirae Asset Nifty 8-13 yr G-Sec ETF",
+    "id": "MAGS",
+    "sid": "MAGS"
+  },
+  {
+    "ticker": "GSEC10ABSL",
+    "type": "etf",
+    "name": "Aditya Birla Sun Life CRISIL 10 Year Gilt ETF",
+    "id": "GSE",
+    "sid": "GSE"
+  },
+  {
+    "ticker": "LIQUIDBEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty 1D Rate Liquid BeES",
+    "id": "LBES",
+    "sid": "LBES"
+  },
+  {
+    "ticker": "LIQUIDIETF",
+    "type": "etf",
+    "name": "ICICI Prudential BSE Liquid Rate ETF - IDCW",
+    "id": "ICIP",
+    "sid": "ICIP"
+  },
+  {
+    "ticker": "LIQUIDETF",
+    "type": "etf",
+    "name": "DSP NIFTY 1D Rate Liquid ETF",
+    "id": "DSPL",
+    "sid": "DSPL"
+  },
+  {
+    "ticker": "LIQUIDCASE",
+    "type": "etf",
+    "name": "Zerodha Nifty 1D Rate Liquid ETF",
+    "id": "LIQUI",
+    "sid": "LIQUI"
+  },
+  {
+    "ticker": "LIQUIDADD",
+    "type": "etf",
+    "name": "DSP BSE Liquid Rate ETF",
+    "id": "LIQUD",
+    "sid": "LIQUD"
+  },
+  {
+    "ticker": "LIQUID1",
+    "type": "etf",
+    "name": "Kotak Nifty 1D Rate Liquid ETF",
+    "id": "KOTAI",
+    "sid": "KOTAI"
+  },
+  {
+    "ticker": "LIQUIDPLUS",
+    "type": "etf",
+    "name": "Mirae Asset Nifty 1D Rate Liquid ETF   Growth",
+    "id": "LIQUP",
+    "sid": "LIQUP"
+  },
+  {
+    "ticker": "LIQUIDBETF",
+    "type": "etf",
+    "name": "Bajaj Finserv Nifty 1D Rate Liquid ETF - Growth",
+    "id": "LIQUB",
+    "sid": "LIQUB"
+  },
+  {
+    "ticker": "LIQUID",
+    "type": "etf",
+    "name": "Mirae Asset Nifty 1D Rate Liquid ETF - IDCW",
+    "id": "LIQ",
+    "sid": "LIQ"
+  },
+  {
+    "ticker": "LIQGRWBEES",
+    "type": "etf",
+    "name": "Nippon India Nifty 1D Rate Liquid ETF - Growth",
+    "id": "LIQG",
+    "sid": "LIQG"
+  },
+  {
+    "ticker": "CASHIETF",
+    "type": "etf",
+    "name": "ICICI Prudential BSE Liquid Rate ETF - Growth",
+    "id": "CAS",
+    "sid": "CAS"
+  },
+  {
+    "ticker": "SBILIQETF",
+    "type": "etf",
+    "name": "SBI NIFTY 1D Rate Liquid ETF - Growth",
+    "id": "SBILI",
+    "sid": "SBILI"
+  },
+  {
+    "ticker": "HDFCLIQUID",
+    "type": "etf",
+    "name": "HDFC Nifty 1D Rate Liquid ETF - Growth",
+    "id": "HDFCU",
+    "sid": "HDFCU"
+  },
+  {
+    "ticker": "LIQUIDSBI",
+    "type": "etf",
+    "name": "SBI Nifty 1D Rate Liquid ETF - IDCW",
+    "id": "LIQU",
+    "sid": "LIQU"
+  },
+  {
+    "ticker": "GROWWLIQID",
+    "type": "etf",
+    "name": "Groww Nifty 1D Rate Liquid ETF",
+    "id": "GROWW",
+    "sid": "GROWW"
+  },
+  {
+    "ticker": "LIQUIDSHRI",
+    "type": "etf",
+    "name": "Shriram Nifty 1D Rate Liquid ETF",
+    "id": "LIQUS",
+    "sid": "LIQUS"
+  },
+  {
+    "ticker": "AONELIQUID",
+    "type": "etf",
+    "name": "Angel One Nifty 1D Rate Liquid ETF - Growth",
+    "id": "AONE",
+    "sid": "AONE"
+  },
+  {
+    "ticker": "ELIQUID",
+    "type": "etf",
+    "name": "Edelweiss Nifty 1D Rate Liquid ETF - Growth",
+    "id": "ELIQ",
+    "sid": "ELIQ"
+  },
+  {
+    "ticker": "ABSLLIQUID",
+    "type": "etf",
+    "name": "Aditya Birla Sun Life CRISIL Liquid Overnight ETF",
+    "id": "ABSL",
+    "sid": "ABSL"
+  },
+  {
+    "ticker": "SDL26BEES",
+    "type": "etf",
+    "name": "NipponINETFNifty SDL Apr 2026 Top 20 Equal Weight",
+    "id": "NETF",
+    "sid": "NETF"
+  },
+  {
+    "ticker": "AXISBPSETF",
+    "type": "etf",
+    "name": "Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF",
+    "id": "AXISB",
+    "sid": "AXISB"
+  },
+  {
+    "ticker": "EBBETF0430",
+    "type": "etf",
+    "name": "BHARAT Bond ETF-April 2030-Growth",
+    "id": "BHAB",
+    "sid": "BHAB"
+  },
+  {
+    "ticker": "EBBETF0433",
+    "type": "etf",
+    "name": "BHARAT Bond ETF - April 2033",
+    "id": "EBB",
+    "sid": "EBB"
+  },
+  {
+    "ticker": "EBBETF0431",
+    "type": "etf",
+    "name": "BHARAT Bond ETF-April 2031-Growth",
+    "id": "BARE",
+    "sid": "BARE"
+  },
+  {
+    "ticker": "BBETF0432",
+    "type": "etf",
+    "name": "BHARAT Bond ETF-April 2032",
+    "id": "BBE",
+    "sid": "BBE"
+  },
+  {
+    "ticker": "MAFANG",
+    "type": "etf",
+    "name": "Mirae Asset NYSE FANG+ ETF",
+    "id": "MAFAN",
+    "sid": "MAFAN"
+  },
+  {
+    "ticker": "MAHKTECH",
+    "type": "etf",
+    "name": "Mirae Asset Hang Seng TECH ETF",
+    "id": "MAHK",
+    "sid": "MAHK"
+  },
+  {
+    "ticker": "HNGSNGBEES",
+    "type": "etf",
+    "name": "Nippon India ETF Hang Seng BeES",
+    "id": "HNGS",
+    "sid": "HNGS"
+  },
+  {
+    "ticker": "MON100",
+    "type": "etf",
+    "name": "Motilal Oswal NASDAQ 100 ETF",
+    "id": "N100",
+    "sid": "N100"
+  },
+  {
+    "ticker": "MONQ50",
+    "type": "etf",
+    "name": "Motilal Oswal Nasdaq Q50 ETF",
+    "id": "MONQ",
+    "sid": "MONQ"
+  },
+  {
+    "ticker": "MSCIINDIA",
+    "type": "etf",
+    "name": "Kotak MSCI India ETF",
+    "id": "MSCI",
+    "sid": "MSCI"
+  },
+  {
+    "ticker": "ABSLMSCIN",
+    "type": "etf",
+    "name": "Aditya Birla Sun Life MSCI India ETF",
+    "id": "ABSLM",
+    "sid": "ABSLM"
+  },
+  {
+    "ticker": "MSCIADD",
+    "type": "etf",
+    "name": "DSP MSCI India ETF",
+    "id": "MSCIA",
+    "sid": "MSCIA"
+  },
+  {
+    "ticker": "NIFTYBEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty 50 BeES",
+    "id": "NBES",
+    "sid": "NBES"
+  },
+  {
+    "ticker": "HDFCSENSEX",
+    "type": "etf",
+    "name": "HDFC BSE Sensex ETF",
+    "id": "HDSE",
+    "sid": "HDSE"
+  },
+  {
+    "ticker": "NIFTYBETA",
+    "type": "etf",
+    "name": "UTI Nifty 50 ETF",
+    "id": "UTIN",
+    "sid": "UTIN"
+  },
+  {
+    "ticker": "JUNIORBEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty Next 50 Junior BeES",
+    "id": "JBES",
+    "sid": "JBES"
+  },
+  {
+    "ticker": "SETFNIF50",
+    "type": "etf",
+    "name": "SBI Nifty 50 ETF",
+    "id": "SBFP",
+    "sid": "SBFP"
+  },
+  {
+    "ticker": "NIFTYIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty 50 ETF",
+    "id": "ICNI",
+    "sid": "ICNI"
+  },
+  {
+    "ticker": "NIFTY1",
+    "type": "etf",
+    "name": "Kotak Nifty 50 ETF",
+    "id": "KOTK",
+    "sid": "KOTK"
+  },
+  {
+    "ticker": "NIFTYETF",
+    "type": "etf",
+    "name": "Mirae Asset Nifty 50 ETF",
+    "id": "MIRA",
+    "sid": "MIRA"
+  },
+  {
+    "ticker": "NEXT50IETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty Next 50 ETF",
+    "id": "ICIT",
+    "sid": "ICIT"
+  },
+  {
+    "ticker": "HDFCNIFTY",
+    "type": "etf",
+    "name": "HDFC Nifty 50 ETF",
+    "id": "HDFN",
+    "sid": "HDFN"
+  },
+  {
+    "ticker": "BSLNIFTY",
+    "type": "etf",
+    "name": "Aditya Birla Sun Life Nifty 50 ETF",
+    "id": "ADIY",
+    "sid": "ADIY"
+  },
+  {
+    "ticker": "LOWVOLIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty 100 Low Vol 30 ETF",
+    "id": "IICI",
+    "sid": "IICI"
+  },
+  {
+    "ticker": "MOCAPITAL",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty Capital Market ETF",
+    "id": "MOC",
+    "sid": "MOC"
+  },
+  {
+    "ticker": "MULTICAP",
+    "type": "etf",
+    "name": "Mirae Asset Nifty500 Multicap 50:25:25 ETF",
+    "id": "MULTC",
+    "sid": "MULTC"
+  },
+  {
+    "ticker": "MONIFTY500",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty 500 ETF",
+    "id": "MONIF",
+    "sid": "MONIF"
+  },
+  {
+    "ticker": "SETFNN50",
+    "type": "etf",
+    "name": "SBI Nifty Next 50 ETF",
+    "id": "SBIN",
+    "sid": "SBIN"
+  },
+  {
+    "ticker": "NIFTYCASE",
+    "type": "etf",
+    "name": "Zerodha Nifty 50 ETF",
+    "id": "NIFTC",
+    "sid": "NIFTC"
+  },
+  {
+    "ticker": "SENSEXIETF",
+    "type": "etf",
+    "name": "ICICI Prudential BSE Sensex ETF",
+    "id": "ICII",
+    "sid": "ICII"
+  },
+  {
+    "ticker": "TOP100CASE",
+    "type": "etf",
+    "name": "Zerodha Nifty 100 ETF",
+    "id": "TOP",
+    "sid": "TOP"
+  },
+  {
+    "ticker": "NEXT50",
+    "type": "etf",
+    "name": "Mirae Asset Nifty Next 50 ETF",
+    "id": "MIRE",
+    "sid": "MIRE"
+  },
+  {
+    "ticker": "MASPTOP50",
+    "type": "etf",
+    "name": "Mirae Asset S&P 500 Top 50 ETF",
+    "id": "MASP",
+    "sid": "MASP"
+  },
+  {
+    "ticker": "SENSEXETF",
+    "type": "etf",
+    "name": "Mirae Asset BSE Sensex ETF",
+    "id": "SENS",
+    "sid": "SENS"
+  },
+  {
+    "ticker": "AXISNIFTY",
+    "type": "etf",
+    "name": "Axis Nifty 50 ETF",
+    "id": "AISN",
+    "sid": "AISN"
+  },
+  {
+    "ticker": "NIF100BEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty 100",
+    "id": "NIPO",
+    "sid": "NIPO"
+  },
+  {
+    "ticker": "HDFCNEXT50",
+    "type": "etf",
+    "name": "HDFC Nifty NEXT 50 ETF",
+    "id": "HDFCN",
+    "sid": "HDFCN"
+  },
+  {
+    "ticker": "ECAPINSURE",
+    "type": "etf",
+    "name": "Edelweiss BSE Capital Markets & Insurance ETF",
+    "id": "ECA",
+    "sid": "ECA"
+  },
+  {
+    "ticker": "GROWWCAPM",
+    "type": "etf",
+    "name": "Groww Nifty Capital Markets ETF",
+    "id": "GROWA",
+    "sid": "GROWA"
+  },
+  {
+    "ticker": "SENSEXBETA",
+    "type": "etf",
+    "name": "UTI BSE Sensex ETF",
+    "id": "UTIS",
+    "sid": "UTIS"
+  },
+  {
+    "ticker": "NEXT50BETA",
+    "type": "etf",
+    "name": "UTI Nifty Next 50 Exchange Traded Fund",
+    "id": "UTII",
+    "sid": "UTII"
+  },
+  {
+    "ticker": "AONENIFTY",
+    "type": "etf",
+    "name": "Angel One Nifty 50 ETF",
+    "id": "AONEN",
+    "sid": "AONEN"
+  },
+  {
+    "ticker": "BSE500IETF",
+    "type": "etf",
+    "name": "ICICI Prudential BSE 500 ETF",
+    "id": "ICSP",
+    "sid": "ICSP"
+  },
+  {
+    "ticker": "NIFTYADD",
+    "type": "etf",
+    "name": "DSP Nifty 50 ETF",
+    "id": "DSPN",
+    "sid": "DSPN"
+  },
+  {
+    "ticker": "GROWWNET",
+    "type": "etf",
+    "name": "Groww Nifty India Internet ETF",
+    "id": "GROWE",
+    "sid": "GROWE"
+  },
+  {
+    "ticker": "GROWWNIFTY",
+    "type": "etf",
+    "name": "Groww Nifty 50 ETF",
+    "id": "GROWI",
+    "sid": "GROWI"
+  },
+  {
+    "ticker": "AONETOTAL",
+    "type": "etf",
+    "name": "Angel One Nifty Total Market ETF",
+    "id": "AON",
+    "sid": "AON"
+  },
+  {
+    "ticker": "AXSENSEX",
+    "type": "etf",
+    "name": "Axis BSE Sensex ETF",
+    "id": "AXS",
+    "sid": "AXS"
+  },
+  {
+    "ticker": "QNIFTY",
+    "type": "etf",
+    "name": "Quantum Nifty 50 ETF",
+    "id": "QUAN",
+    "sid": "QUAN"
+  },
+  {
+    "ticker": "LICNETFN50",
+    "type": "etf",
+    "name": "LIC MF Nifty 50 ETF",
+    "id": "LICO",
+    "sid": "LICO"
+  },
+  {
+    "ticker": "NIFTYBETF",
+    "type": "etf",
+    "name": "Bajaj Finserv Nifty 50 ETF",
+    "id": "NIFT",
+    "sid": "NIFT"
+  },
+  {
+    "ticker": "NIF100IETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty 100 ETF",
+    "id": "ICIC",
+    "sid": "ICIC"
+  },
+  {
+    "ticker": "MONIFTY100",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty 100 ETF",
+    "id": "MONIT",
+    "sid": "MONIT"
+  },
+  {
+    "ticker": "GROWWNXT50",
+    "type": "etf",
+    "name": "Groww Nifty Next 50 ETF",
+    "id": "GROWX",
+    "sid": "GROWX"
+  },
+  {
+    "ticker": "HDFCGROWTH",
+    "type": "etf",
+    "name": "HDFC Nifty Growth Sectors 15 ETF",
+    "id": "HDFCG",
+    "sid": "HDFCG"
+  },
+  {
+    "ticker": "NETF",
+    "type": "etf",
+    "name": "Tata Nifty 50 ETF",
+    "id": "TATN",
+    "sid": "TATN"
+  },
+  {
+    "ticker": "HDFCBSE500",
+    "type": "etf",
+    "name": "HDFC BSE 500 ETF",
+    "id": "HDFCB",
+    "sid": "HDFCB"
+  },
+  {
+    "ticker": "LOWVOL1",
+    "type": "etf",
+    "name": "Kotak Nifty 100 Low Volatility 30 ETF",
+    "id": "KOTAL",
+    "sid": "KOTAL"
+  },
+  {
+    "ticker": "ABSLNN50ET",
+    "type": "etf",
+    "name": "Aditya Birla Sun Life Nifty Next 50 ETF",
+    "id": "ADIB",
+    "sid": "ADIB"
+  },
+  {
+    "ticker": "GROWWN200",
+    "type": "etf",
+    "name": "Groww Nifty 200 ETF",
+    "id": "GROWN",
+    "sid": "GROWN"
+  },
+  {
+    "ticker": "HDFCNIF100",
+    "type": "etf",
+    "name": "HDFC Nifty 100 ETF",
+    "id": "HDF",
+    "sid": "HDF"
+  },
+  {
+    "ticker": "HDFCLOWVOL",
+    "type": "etf",
+    "name": "HDFC Nifty100 Low Volatility 30 ETF",
+    "id": "HDFCL",
+    "sid": "HDFCL"
+  },
+  {
+    "ticker": "IDFNIFTYET",
+    "type": "etf",
+    "name": "Bandhan Nifty 50 ETF",
+    "id": "IFCN",
+    "sid": "IFCN"
+  },
+  {
+    "ticker": "SNXT30BEES",
+    "type": "etf",
+    "name": "Nippon India BSE Sensex Next 30 ETF",
+    "id": "SNX",
+    "sid": "SNX"
+  },
+  {
+    "ticker": "IVZINNIFTY",
+    "type": "etf",
+    "name": "Invesco India Nifty 50 ETF",
+    "id": "INVO",
+    "sid": "INVO"
+  },
+  {
+    "ticker": "BSLSENETFG",
+    "type": "etf",
+    "name": "Aditya Birla Sun Life BSE Sensex ETF",
+    "id": "BSL",
+    "sid": "BSL"
+  },
+  {
+    "ticker": "NEXT50ETF",
+    "type": "etf",
+    "name": "Kotak Nifty Next 50 ETF",
+    "id": "NEXTE",
+    "sid": "NEXTE"
+  },
+  {
+    "ticker": "SNXT50BETA",
+    "type": "etf",
+    "name": "UTI BSE Sensex Next 50 ETF",
+    "id": "UTIP",
+    "sid": "UTIP"
+  },
+  {
+    "ticker": "LICNFNHGP",
+    "type": "etf",
+    "name": "LIC MF Nifty 100 ETF",
+    "id": "LICU",
+    "sid": "LICU"
+  },
+  {
+    "ticker": "NEXT50ADD",
+    "type": "etf",
+    "name": "DSP Nifty Next 50 ETF",
+    "id": "NEXTA",
+    "sid": "NEXTA"
+  },
+  {
+    "ticker": "NEXT30ADD",
+    "type": "etf",
+    "name": "DSP BSE Sensex Next 30 ETF",
+    "id": "NEXT",
+    "sid": "NEXT"
+  },
+  {
+    "ticker": "MONEXT50",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty Next 50 ETF",
+    "id": "MONEX",
+    "sid": "MONEX"
+  },
+  {
+    "ticker": "GROWWLOVOL",
+    "type": "etf",
+    "name": "Groww Nifty 500 Low Volatility 50 ETF",
+    "id": "GROWL",
+    "sid": "GROWL"
+  },
+  {
+    "ticker": "ENIFTY",
+    "type": "etf",
+    "name": "Edelweiss Nifty 50 ETF",
+    "id": "ENI",
+    "sid": "ENI"
+  },
+  {
+    "ticker": "SENSEXADD",
+    "type": "etf",
+    "name": "DSP BSE Sensex ETF",
+    "id": "DSPSE",
+    "sid": "DSPSE"
+  },
+  {
+    "ticker": "LICNETFSEN",
+    "type": "etf",
+    "name": "LIC MF BSE Sensex ETF",
+    "id": "LICM",
+    "sid": "LICM"
+  },
+  {
+    "ticker": "ESENSEX",
+    "type": "etf",
+    "name": "Edelweiss BSE Sensex ETF",
+    "id": "ESE",
+    "sid": "ESE"
+  },
+  {
+    "ticker": "LOWVOL",
+    "type": "etf",
+    "name": "Mirae Asset Nifty 100 Low Volatility 30 ETF",
+    "id": "MANV",
+    "sid": "MANV"
+  },
+  {
+    "ticker": "MIDCAPIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty Midcap 150 ETF",
+    "id": "IICP",
+    "sid": "IICP"
+  },
+  {
+    "ticker": "SMALLCAP",
+    "type": "etf",
+    "name": "Mirae Asset Nifty Smallcap 250 Momentum Ql 100 ETF",
+    "id": "SMAL",
+    "sid": "SMAL"
+  },
+  {
+    "ticker": "MOM100",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty Midcap 100 ETF",
+    "id": "M100",
+    "sid": "M100"
+  },
+  {
+    "ticker": "HDFCSML250",
+    "type": "etf",
+    "name": "HDFC NIFTY Smallcap 250 ETF",
+    "id": "HDFCH",
+    "sid": "HDFCH"
+  },
+  {
+    "ticker": "MID150BEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty Midcap 150",
+    "id": "NTFM",
+    "sid": "NTFM"
+  },
+  {
+    "ticker": "MIDCAPETF",
+    "type": "etf",
+    "name": "Mirae Asset Nifty Midcap 150 ETF",
+    "id": "MAME",
+    "sid": "MAME"
+  },
+  {
+    "ticker": "MOSMALL250",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty Smallcap 250 ETF",
+    "id": "MOSM",
+    "sid": "MOSM"
+  },
+  {
+    "ticker": "MID150CASE",
+    "type": "etf",
+    "name": "Zerodha Nifty Midcap 150 ETF",
+    "id": "MIDC",
+    "sid": "MIDC"
+  },
+  {
+    "ticker": "HDFCMID150",
+    "type": "etf",
+    "name": "HDFC NIFTY Midcap 150 ETF",
+    "id": "HDFCD",
+    "sid": "HDFCD"
+  },
+  {
+    "ticker": "SML100CASE",
+    "type": "etf",
+    "name": "Zerodha Nifty Smallcap 100 ETF",
+    "id": "SMLC",
+    "sid": "SMLC"
+  },
+  {
+    "ticker": "MIDCAP",
+    "type": "etf",
+    "name": "Kotak Nifty Midcap 50 ETF",
+    "id": "KOTAM",
+    "sid": "KOTAM"
+  },
+  {
+    "ticker": "ELM250",
+    "type": "etf",
+    "name": "Edelweiss Nifty LargeMidcap 250 ETF",
+    "id": "ELM",
+    "sid": "ELM"
+  },
+  {
+    "ticker": "SMALL250",
+    "type": "etf",
+    "name": "Mirae Asset Nifty Smallcap 250 ETF",
+    "id": "SMALL",
+    "sid": "SMALL"
+  },
+  {
+    "ticker": "MID150",
+    "type": "etf",
+    "name": "Kotak Nifty Midcap 150 ETF",
+    "id": "MII",
+    "sid": "MII"
+  },
+  {
+    "ticker": "MIDSELIETF",
+    "type": "etf",
+    "name": "ICICI Prudential BSE Midcap Select ETF",
+    "id": "ICIU",
+    "sid": "ICIU"
+  },
+  {
+    "ticker": "GROWWSC250",
+    "type": "etf",
+    "name": "Groww Nifty Smallcap 250 ETF",
+    "id": "GROWC",
+    "sid": "GROWC"
+  },
+  {
+    "ticker": "SMALLADD",
+    "type": "etf",
+    "name": "DSP Nifty Smallcap 250 ETF",
+    "id": "SMALA",
+    "sid": "SMALA"
+  },
+  {
+    "ticker": "MOLOWVOL",
+    "type": "etf",
+    "name": "Motilal Oswal BSE Low Volatility ETF",
+    "id": "MOLO",
+    "sid": "MOLO"
+  },
+  {
+    "ticker": "LICNMID100",
+    "type": "etf",
+    "name": "LIC MF Nifty Midcap 100 ETF",
+    "id": "LICNM",
+    "sid": "LICNM"
+  },
+  {
+    "ticker": "MIDCAPBETA",
+    "type": "etf",
+    "name": "UTI Nifty Midcap 150 Exchange Traded Fund",
+    "id": "NIFM",
+    "sid": "NIFM"
+  },
+  {
+    "ticker": "GROWWMC150",
+    "type": "etf",
+    "name": "Groww Nifty Midcap 150 ETF",
+    "id": "GROMW",
+    "sid": "GROMW"
+  },
+  {
+    "ticker": "MIDCAPADD",
+    "type": "etf",
+    "name": "DSP Nifty Midcap 150 ETF",
+    "id": "MIDCA",
+    "sid": "MIDCA"
+  },
+  {
+    "ticker": "AUTOIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty Auto ETF",
+    "id": "ICICA",
+    "sid": "ICICA"
+  },
+  {
+    "ticker": "AUTOBEES",
+    "type": "etf",
+    "name": "Nippon India Nifty Auto ETF",
+    "id": "NETFA",
+    "sid": "NETFA"
+  },
+  {
+    "ticker": "BANKBEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty Bank BeES",
+    "id": "BBES",
+    "sid": "BBES"
+  },
+  {
+    "ticker": "PVTBANIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty Private Bank ETF",
+    "id": "ICIV",
+    "sid": "ICIV"
+  },
+  {
+    "ticker": "BANKIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty Bank ETF",
+    "id": "ICIA",
+    "sid": "ICIA"
+  },
+  {
+    "ticker": "BANKBETF",
+    "type": "etf",
+    "name": "Bajaj Finserv Nifty Bank ETF",
+    "id": "BANKB",
+    "sid": "BANKB"
+  },
+  {
+    "ticker": "BANKNIFTY1"
+  },
+  {
+    "ticker": "SETFNIFBK"
+  },
+  {
+    "ticker": "HDFCNIFBAN",
+    "type": "etf",
+    "name": "HDFC Nifty Banking ETF",
+    "id": "HDFB",
+    "sid": "HDFB"
+  },
+  {
+    "ticker": "BANKETF",
+    "type": "etf",
+    "name": "Mirae Asset Nifty Bank ETF",
+    "id": "BANK",
+    "sid": "BANK"
+  },
+  {
+    "ticker": "BANKBETA",
+    "type": "etf",
+    "name": "UTI Nifty Bank ETF",
+    "id": "UTIB",
+    "sid": "UTIB"
+  },
+  {
+    "ticker": "ABSLBANETF",
+    "type": "etf",
+    "name": "Aditya Birla Sun Life Nifty Bank ETF",
+    "id": "ADIL",
+    "sid": "ADIL"
+  },
+  {
+    "ticker": "SBIETFPB",
+    "type": "etf",
+    "name": "SBI Nifty Private Bank ETF",
+    "id": "SBIE",
+    "sid": "SBIE"
+  },
+  {
+    "ticker": "HDFCPVTBAN",
+    "type": "etf",
+    "name": "HDFC Nifty Private Bank ETF",
+    "id": "HDFCP",
+    "sid": "HDFCP"
+  },
+  {
+    "ticker": "BANKADD",
+    "type": "etf",
+    "name": "DSP Nifty Bank ETF",
+    "id": "DSPB",
+    "sid": "DSPB"
+  },
+  {
+    "ticker": "PVTBANKADD",
+    "type": "etf",
+    "name": "DSP Nifty Private Bank ETF",
+    "id": "DSPPV",
+    "sid": "DSPPV"
+  },
+  {
+    "ticker": "BBNPNBETF",
+    "type": "etf",
+    "name": "Baroda BNP Paribas Nifty Bank ETF",
+    "id": "BBNP",
+    "sid": "BBNP"
+  },
+  {
+    "ticker": "AXISBNKETF",
+    "type": "etf",
+    "name": "Axis NIFTY Bank ETF",
+    "id": "AXIS",
+    "sid": "AXIS"
+  },
+  {
+    "ticker": "NPBET"
+  },
+  {
+    "ticker": "EBANKNIFTY"
+  },
+  {
+    "ticker": "ENERGY"
+  },
+  {
+    "ticker": "OILIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty Oil & Gas ETF",
+    "id": "OIL",
+    "sid": "OIL"
+  },
+  {
+    "ticker": "MOENERGY",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty Energy ETF",
+    "id": "MOE",
+    "sid": "MOE"
+  },
+  {
+    "ticker": "GROWWPOWER",
+    "type": "etf",
+    "name": "Groww BSE Power ETF",
+    "id": "GROWP",
+    "sid": "GROWP"
+  },
+  {
+    "ticker": "BFSI",
+    "type": "etf",
+    "name": "Mirae Asset Nifty Financial Services ETF",
+    "id": "MAFS",
+    "sid": "MAFS"
+  },
+  {
+    "ticker": "FINIETF",
+    "type": "etf",
+    "name": "ICICI Pru Nifty Financial Services Ex-Bank ETF",
+    "id": "ICIII",
+    "sid": "ICIII"
+  },
+  {
+    "ticker": "FMCGIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty FMCG ETF",
+    "id": "ICICF",
+    "sid": "ICICF"
+  },
+  {
+    "ticker": "HEALTHCARE",
+    "type": "etf",
+    "name": "Mirae Asset Nifty 500 Healthcare ETF",
+    "id": "HEALC",
+    "sid": "HEALC"
+  },
+  {
+    "ticker": "HEALTHIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty Healthcare ETF",
+    "id": "ICICI",
+    "sid": "ICICI"
+  },
+  {
+    "ticker": "HEALTHY",
+    "type": "etf",
+    "name": "Aditya BSL Nifty Healthcare ETF",
+    "id": "HEALT",
+    "sid": "HEALT"
+  },
+  {
+    "ticker": "MOHEALTH",
+    "type": "etf",
+    "name": "Motilal Oswal BSE Healthcare ETF",
+    "id": "MOHE",
+    "sid": "MOHE"
+  },
+  {
+    "ticker": "HEALTHADD"
+  },
+  {
+    "ticker": "AXISHCETF"
+  },
+  {
+    "ticker": "ITETF"
+  },
+  {
+    "ticker": "ITIETF"
+  },
+  {
+    "ticker": "ITBEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty IT",
+    "id": "NIPD",
+    "sid": "NIPD"
+  },
+  {
+    "ticker": "HDFCNIFIT",
+    "type": "etf",
+    "name": "HDFC Nifty IT ETF",
+    "id": "HDFCI",
+    "sid": "HDFCI"
+  },
+  {
+    "ticker": "IT",
+    "type": "etf",
+    "name": "Kotak Nifty IT ETF",
+    "id": "KOTA",
+    "sid": "KOTA"
+  },
+  {
+    "ticker": "ITADD",
+    "type": "etf",
+    "name": "DSP Nifty IT ETF",
+    "id": "DSPI",
+    "sid": "DSPI"
+  },
+  {
+    "ticker": "TNIDETF",
+    "type": "etf",
+    "name": "Tata Nifty India Digital Exchange Traded Fund",
+    "id": "TNI",
+    "sid": "TNI"
+  },
+  {
+    "ticker": "SBIETFIT",
+    "type": "etf",
+    "name": "SBI Nifty IT ETF",
+    "id": "SBIET",
+    "sid": "SBIET"
+  },
+  {
+    "ticker": "AXISTECETF",
+    "type": "etf",
+    "name": "Axis NIFTY IT ETF",
+    "id": "AXIST",
+    "sid": "AXIST"
+  },
+  {
+    "ticker": "INTERNET",
+    "type": "etf",
+    "name": "Mirae Asset Nifty India Internet ETF",
+    "id": "INTEN",
+    "sid": "INTEN"
+  },
+  {
+    "ticker": "TECH",
+    "type": "etf",
+    "name": "Aditya BSL Nifty IT ETF",
+    "id": "TECT",
+    "sid": "TECT"
+  },
+  {
+    "ticker": "ITBETA",
+    "type": "etf",
+    "name": "UTI Nifty IT ETF",
+    "id": "NIFI",
+    "sid": "NIFI"
+  },
+  {
+    "ticker": "METALIETF"
+  },
+  {
+    "ticker": "METAL"
+  },
+  {
+    "ticker": "GROWWMETAL"
+  },
+  {
+    "ticker": "PHARMABEES",
+    "type": "etf",
+    "name": "Nippon India Nifty Pharma ETF",
+    "id": "NETFP",
+    "sid": "NETFP"
+  },
+  {
+    "ticker": "CHEMICAL",
+    "type": "etf",
+    "name": "Kotak Nifty Chemicals ETF",
+    "id": "CHEMA",
+    "sid": "CHEMA"
+  },
+  {
+    "ticker": "GROWWCHEM",
+    "type": "etf",
+    "name": "Groww Nifty Chemicals ETF",
+    "id": "GROWH",
+    "sid": "GROWH"
+  },
+  {
+    "ticker": "PSUBANK",
+    "type": "etf",
+    "name": "Kotak Nifty PSU Bank ETF",
+    "id": "KTPU",
+    "sid": "KTPU"
+  },
+  {
+    "ticker": "PSUBNKBEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty PSU Bank BeES",
+    "id": "PSUB",
+    "sid": "PSUB"
+  },
+  {
+    "ticker": "PSUBNKIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty PSU Bank ETF",
+    "id": "PSU",
+    "sid": "PSU"
+  },
+  {
+    "ticker": "SBIBPB",
+    "type": "etf",
+    "name": "SBI BSE PSU BANK ETF",
+    "id": "SBIB",
+    "sid": "SBIB"
+  },
+  {
+    "ticker": "PSUBANKADD",
+    "type": "etf",
+    "name": "DSP Nifty PSU Bank ETF",
+    "id": "DSPP",
+    "sid": "DSPP"
+  },
+  {
+    "ticker": "HDFCPSUBK",
+    "type": "etf",
+    "name": "HDFC NIFTY PSU BANK ETF",
+    "id": "HDFCK",
+    "sid": "HDFCK"
+  },
+  {
+    "ticker": "BANKPSU",
+    "type": "etf",
+    "name": "Mirae Asset Nifty PSU Bank ETF",
+    "id": "BANKP",
+    "sid": "BANKP"
+  },
+  {
+    "ticker": "GROWWRAIL",
+    "type": "etf",
+    "name": "Groww Nifty India Railways PSU ETF",
+    "id": "GROWR",
+    "sid": "GROWR"
+  },
+  {
+    "ticker": "MOREALTY",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty Realty ETF",
+    "id": "MORE",
+    "sid": "MORE"
+  },
+  {
+    "ticker": "GROWWRLTY",
+    "type": "etf",
+    "name": "Groww Nifty Realty ETF",
+    "id": "GROWT",
+    "sid": "GROWT"
+  },
+  {
+    "ticker": "ICICIB22",
+    "type": "etf",
+    "name": "Bharat 22 ETF",
+    "id": "ICPR",
+    "sid": "ICPR"
+  },
+  {
+    "ticker": "CONS",
+    "type": "etf",
+    "name": "Kotak Nifty India Consumption ETF",
+    "id": "KOTAC",
+    "sid": "KOTAC"
+  },
+  {
+    "ticker": "CONSUMBEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty India Consumption",
+    "id": "NCON",
+    "sid": "NCON"
+  },
+  {
+    "ticker": "MOTOUR",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty India Tourism ETF",
+    "id": "MOTO",
+    "sid": "MOTO"
+  },
+  {
+    "ticker": "CONSUMIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty India Consumption ETF",
+    "id": "ICICC",
+    "sid": "ICICC"
+  },
+  {
+    "ticker": "SBIETFCON",
+    "type": "etf",
+    "name": "SBI Nifty Consumption ETF",
+    "id": "SBIEF",
+    "sid": "SBIEF"
+  },
+  {
+    "ticker": "CONSUMER",
+    "type": "etf",
+    "name": "Mirae Asset Nifty India New Age Consumption ETF",
+    "id": "CONSU",
+    "sid": "CONSU"
+  },
+  {
+    "ticker": "AXISCETF",
+    "type": "etf",
+    "name": "Axis NIFTY India Consumption ETF",
+    "id": "AXISC",
+    "sid": "AXISC"
+  },
+  {
+    "ticker": "MOSERVICE",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty Services Sector ETF",
+    "id": "MOSE",
+    "sid": "MOSE"
+  },
+  {
+    "ticker": "MODEFENCE",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty India Defence ETF",
+    "id": "MODEF",
+    "sid": "MODEF"
+  },
+  {
+    "ticker": "DEFENCE",
+    "type": "etf",
+    "name": "Mirae Asset BSE India Defence ETF",
+    "id": "DEFE",
+    "sid": "DEFE"
+  },
+  {
+    "ticker": "GROWWDEFNC",
+    "type": "etf",
+    "name": "Groww Nifty India Defence ETF",
+    "id": "GROWD",
+    "sid": "GROWD"
+  },
+  {
+    "ticker": "SBINEQWETF",
+    "type": "etf",
+    "name": "SBI Nifty50 Equal Weight ETF",
+    "id": "SBINE",
+    "sid": "SBINE"
+  },
+  {
+    "ticker": "TOP10ADD",
+    "type": "etf",
+    "name": "DSP Nifty Top 10 Equal Weight ETF",
+    "id": "TOPA",
+    "sid": "TOPA"
+  },
+  {
+    "ticker": "EQUAL50ADD",
+    "type": "etf",
+    "name": "DSP Nifty 50 Equal Weight ETF",
+    "id": "DSP",
+    "sid": "DSP"
+  },
+  {
+    "ticker": "SHARIABEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty 50 Shariah BeES",
+    "id": "SBET",
+    "sid": "SBET"
+  },
+  {
+    "ticker": "NIFTY100EW",
+    "type": "etf",
+    "name": "Kotak Nifty 100 Equal Weight ETF",
+    "id": "NIFTY",
+    "sid": "NIFTY"
+  },
+  {
+    "ticker": "TOP15IETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty Top 15 Equal Weight ETF",
+    "id": "TOPI",
+    "sid": "TOPI"
+  },
+  {
+    "ticker": "TOP20",
+    "type": "etf",
+    "name": "Mirae Asset Nifty Top 20 Equal Weight ETF",
+    "id": "TOO",
+    "sid": "TOO"
+  },
+  {
+    "ticker": "EQUAL50",
+    "type": "etf",
+    "name": "Mirae Asset Nifty50 Equal Weight ETF",
+    "id": "EQUAL",
+    "sid": "EQUAL"
+  },
+  {
+    "ticker": "EQUAL200",
+    "type": "etf",
+    "name": "Mirae Asset BSE 200 Equal Weight ETF",
+    "id": "EQUA",
+    "sid": "EQUA"
+  },
+  {
+    "ticker": "MON50EQUAL",
+    "type": "etf",
+    "name": "MOTILAL OSWAL NIFTY 50 EQUAL WEIGHT ETF",
+    "id": "MONE",
+    "sid": "MONE"
+  },
+  {
+    "ticker": "ESG",
+    "type": "etf",
+    "name": "Mirae Asset Nifty 100 ESG Sector Leaders ETF",
+    "id": "MAE",
+    "sid": "MAE"
+  },
+  {
+    "ticker": "EVINDIA",
+    "type": "etf",
+    "name": "Mirae Asset Nifty EV and New Age Automotive ETF",
+    "id": "EVI",
+    "sid": "EVI"
+  },
+  {
+    "ticker": "GROWWEV",
+    "type": "etf",
+    "name": "Groww Nifty EV & New Age Automotive ETF",
+    "id": "GROW",
+    "sid": "GROW"
+  },
+  {
+    "ticker": "EVIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty EV & New Age Automotive ETF",
+    "id": "EVIE",
+    "sid": "EVIE"
+  },
+  {
+    "ticker": "INFRAIETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty Infrastructure ETF",
+    "id": "ICICN",
+    "sid": "ICICN"
+  },
+  {
+    "ticker": "INFRABEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty Infrastructure BeES",
+    "id": "IFRB",
+    "sid": "IFRB"
+  },
+  {
+    "ticker": "MANUFGBEES",
+    "type": "etf",
+    "name": "Nippon India Nifty India Manufacturing ETF",
+    "id": "MANU",
+    "sid": "MANU"
+  },
+  {
+    "ticker": "INFRA",
+    "type": "etf",
+    "name": "Mirae Asset Nifty India Infrastr. & Logistics ETF",
+    "id": "INFRN",
+    "sid": "INFRN"
+  },
+  {
+    "ticker": "MOINFRA",
+    "type": "etf",
+    "name": "Motilal Oswal BSE India Infrastructure ETF",
+    "id": "MOI",
+    "sid": "MOI"
+  },
+  {
+    "ticker": "MNC",
+    "type": "etf",
+    "name": "Kotak Nifty MNC ETF",
+    "id": "KOTAN",
+    "sid": "KOTAN"
+  },
+  {
+    "ticker": "MOMNC",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty MNC ETF",
+    "id": "MOMN",
+    "sid": "MOMN"
+  },
+  {
+    "ticker": "MOMENTUM30",
+    "type": "etf",
+    "name": "Kotak Nifty 200 Momentum 30 ETF",
+    "id": "MOMET",
+    "sid": "MOMET"
+  },
+  {
+    "ticker": "ALPHA",
+    "type": "etf",
+    "name": "Kotak Nifty Alpha 50 ETF",
+    "id": "KOTAK",
+    "sid": "KOTAK"
+  },
+  {
+    "ticker": "ALPL30IETF",
+    "type": "etf",
+    "name": "ICICI Pru Nifty Alpha Low- Volatility 30 ETF",
+    "id": "ICIH",
+    "sid": "ICIH"
+  },
+  {
+    "ticker": "MOM30IETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty 200 Momentum 30 ETF",
+    "id": "ICICM",
+    "sid": "ICICM"
+  },
+  {
+    "ticker": "MOMENTUM50",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty 500 Momentum 50 ETF",
+    "id": "MOMEN",
+    "sid": "MOMEN"
+  },
+  {
+    "ticker": "ALPHAETF",
+    "type": "etf",
+    "name": "Mirae Asset Nifty 200 Alpha 30 ETF",
+    "id": "ALPHE",
+    "sid": "ALPHE"
+  },
+  {
+    "ticker": "MIDSMALL",
+    "type": "etf",
+    "name": "Mirae Asset Nifty MidSmallcap400 Momentum Q100 ETF",
+    "id": "MIDS",
+    "sid": "MIDS"
+  },
+  {
+    "ticker": "HDFCMOMENT",
+    "type": "etf",
+    "name": "HDFC Nifty200 Momentum 30 ETF",
+    "id": "HDFCM",
+    "sid": "HDFCM"
+  },
+  {
+    "ticker": "MOMOMENTUM",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty 200 Momentum 30 ETF",
+    "id": "MOMO",
+    "sid": "MOMO"
+  },
+  {
+    "ticker": "MOMIDMTM",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty Midcap150 Momentum 50 ETF",
+    "id": "MOMI",
+    "sid": "MOMI"
+  },
+  {
+    "ticker": "MOMENTUM",
+    "type": "etf",
+    "name": "ADITYA BSL Nifty 200 Momentum 30 ETF",
+    "id": "MOME",
+    "sid": "MOME"
+  },
+  {
+    "ticker": "EMULTIMQ",
+    "type": "etf",
+    "name": "Edelweiss Nifty500 Multicap Momentum Quality50 ETF",
+    "id": "EMUL",
+    "sid": "EMUL"
+  },
+  {
+    "ticker": "GROWWMOM50",
+    "type": "etf",
+    "name": "Groww Nifty 500 Momentum 50 ETF",
+    "id": "GROWM",
+    "sid": "GROWM"
+  },
+  {
+    "ticker": "MOM50",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty 50 ETF",
+    "id": "M50",
+    "sid": "M50"
+  },
+  {
+    "ticker": "AONETMMQ50",
+    "type": "etf",
+    "name": "Angel One Nifty Total Market Momentum Qlty 50 ETF",
+    "id": "AONET",
+    "sid": "AONET"
+  },
+  {
+    "ticker": "SELECTIPO",
+    "type": "etf",
+    "name": "Mirae Asset BSE Select IPO ETF",
+    "id": "SELE",
+    "sid": "SELE"
+  },
+  {
+    "ticker": "MOALPHA50",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty Alpha 50 ETF",
+    "id": "MOA",
+    "sid": "MOA"
+  },
+  {
+    "ticker": "MOMGF",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty India Manufacturing ETF",
+    "id": "MOMG",
+    "sid": "MOMG"
+  },
+  {
+    "ticker": "MOIPO",
+    "type": "etf",
+    "name": "MOTILAL OSWAL BSE SELECT IPO ETF",
+    "id": "MOIP",
+    "sid": "MOIP"
+  },
+  {
+    "ticker": "CPSEETF",
+    "type": "etf",
+    "name": "CPSE ETF",
+    "id": "GOMS",
+    "sid": "GOMS"
+  },
+  {
+    "ticker": "MAKEINDIA",
+    "type": "etf",
+    "name": "Mirae Asset Nifty India Manufacturing ETF",
+    "id": "MAMF",
+    "sid": "MAMF"
+  },
+  {
+    "ticker": "ABSLPSE",
+    "type": "etf",
+    "name": "Aditya Birla Sun Life Nifty PSE ETF",
+    "id": "ABSLP",
+    "sid": "ABSLP"
+  },
+  {
+    "ticker": "GROWWPSE",
+    "type": "etf",
+    "name": "Groww Nifty PSE ETF",
+    "id": "GROPW",
+    "sid": "GROPW"
+  },
+  {
+    "ticker": "MOPSE",
+    "type": "etf",
+    "name": "Motilal Oswal Nifty Pse ETF",
+    "id": "MOP",
+    "sid": "MOP"
+  },
+  {
+    "ticker": "NV20BEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty 50 Value 20",
+    "id": "NNET",
+    "sid": "NNET"
+  },
+  {
+    "ticker": "MOVALUE",
+    "type": "etf",
+    "name": "Motilal Oswal BSE Enhanced Value ETF",
+    "id": "MOV",
+    "sid": "MOV"
+  },
+  {
+    "ticker": "VAL30IETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty200 Value 30 ETF",
+    "id": "VALIE",
+    "sid": "VALIE"
+  },
+  {
+    "ticker": "NV20IETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty50 Value 20 ETF",
+    "id": "ICIN",
+    "sid": "ICIN"
+  },
+  {
+    "ticker": "AXISVALUE",
+    "type": "etf",
+    "name": "Axis Nifty500 Value 50 ETF",
+    "id": "AXISV",
+    "sid": "AXISV"
+  },
+  {
+    "ticker": "NV20",
+    "type": "etf",
+    "name": "Kotak Nifty 50 Value 20 ETF",
+    "id": "KONV",
+    "sid": "KONV"
+  },
+  {
+    "ticker": "DIVOPPBEES",
+    "type": "etf",
+    "name": "Nippon India ETF Nifty Dividend Opportunities 50",
+    "id": "NDIV",
+    "sid": "NDIV"
+  },
+  {
+    "ticker": "MIDQ50ADD",
+    "type": "etf",
+    "name": "DSP Nifty Midcap 150 Quality 50 ETF",
+    "id": "DSPQ",
+    "sid": "DSPQ"
+  },
+  {
+    "ticker": "FLEXIADD",
+    "type": "etf",
+    "name": "DSP Nifty500 Flexicap Quality 30 ETF",
+    "id": "FLEX",
+    "sid": "FLEX"
+  },
+  {
+    "ticker": "QUAL30IETF",
+    "type": "etf",
+    "name": "ICICI Prudential Nifty 200 Quality 30 ETF",
+    "id": "ICICQ",
+    "sid": "ICICQ"
+  },
+  {
+    "ticker": "NIFTYQLITY",
+    "type": "etf",
+    "name": "ADITYA BSL Nifty 200 Quality 30 ETF",
+    "id": "NIF",
+    "sid": "NIF"
+  },
+  {
+    "ticker": "HDFCQUAL",
+    "type": "etf",
+    "name": "HDFC Nifty100 Quality 30 ETF",
+    "id": "HDFCQ",
+    "sid": "HDFCQ"
+  },
+  {
+    "ticker": "HDFCVALUE",
+    "type": "etf",
+    "name": "HDFC Nifty50 Value 20 ETF",
+    "id": "HDFCV",
+    "sid": "HDFCV"
+  },
+  {
+    "ticker": "QUALITY30",
+    "type": "etf",
+    "name": "Kotak Nifty200 Quality 30 ETF",
+    "id": "QUAL",
+    "sid": "QUAL"
+  },
+  {
+    "ticker": "SBIETFQLTY",
+    "type": "etf",
+    "name": "SBI Nifty 200 Quality 30 ETF",
+    "id": "SIET",
+    "sid": "SIET"
+  },
+  {
+    "ticker": "MOQUALITY",
+    "type": "etf",
+    "name": "Motilal Oswal BSE Quality ETF",
+    "id": "MOQ",
+    "sid": "MOQ"
+  },
+  {
+    "ticker": "DIVIDEND",
+    "type": "etf",
+    "name": "Mirae Asset BSE 500 Dividend Leaders 50 ETF",
+    "id": "DIVID",
+    "sid": "DIVID"
+  }
+]
